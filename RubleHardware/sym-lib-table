@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LTC3780EUH#PBF")(type "Legacy")(uri "${KIPRJMOD}/LTC3780EUH#PBF.lib")(options "")(descr ""))
+)
