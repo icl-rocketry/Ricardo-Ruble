@@ -3349,6 +3349,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 133.35) (xy 118.11 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01de1750-47af-47ac-9609-44fffb4fe542")
+	)
+	(wire
+		(pts
 			(xy 153.67 135.89) (xy 156.21 135.89)
 		)
 		(stroke
@@ -3739,6 +3749,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 134.62) (xy 110.49 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45280eec-e6da-4dd2-b79f-4a584ba951e5")
+	)
+	(wire
+		(pts
 			(xy 215.9 125.73) (xy 218.44 125.73)
 		)
 		(stroke
@@ -3769,7 +3789,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 133.35) (xy 109.22 133.35)
+			(xy 110.49 134.62) (xy 109.22 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3809,7 +3829,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 130.81) (xy 118.11 130.81)
+			(xy 99.06 130.81) (xy 118.11 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4039,7 +4059,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 130.81) (xy 104.14 134.62)
+			(xy 99.06 130.81) (xy 99.06 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5277,8 +5297,8 @@
 		)
 		(uuid "a4df06b8-a037-44af-bf00-d90ccc78d375")
 	)
-	(label "EN"
-		(at 109.22 133.35 270)
+	(label "INTVCC"
+		(at 109.22 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6809,7 +6829,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDS")
-		(at 104.14 134.62 0)
+		(at 99.06 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6818,7 +6838,7 @@
 		(fields_autoplaced yes)
 		(uuid "76e6c449-3892-42a9-8623-4e75fe64fa0a")
 		(property "Reference" "#PWR08"
-			(at 104.14 140.97 0)
+			(at 99.06 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6827,7 +6847,7 @@
 			)
 		)
 		(property "Value" "GNDS"
-			(at 104.14 139.7 0)
+			(at 99.06 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6835,7 +6855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 134.62 0)
+			(at 99.06 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6844,7 +6864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 134.62 0)
+			(at 99.06 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6853,7 +6873,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
-			(at 104.14 134.62 0)
+			(at 99.06 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
