@@ -6467,7 +6467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iclr:CAPC6050X550N"
+		(property "Footprint" "iclr:CAPC2012X145N"
 			(at 274.32 132.08 0)
 			(effects
 				(font
@@ -6494,7 +6494,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "CKG57NX5R1H226M500JH"
+		(property "MFR" "C2012X5R1V226M125AC"
 			(at 274.32 132.08 0)
 			(effects
 				(font
@@ -7411,7 +7411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iclr:CAPC6050X550N"
+		(property "Footprint" "iclr:CAPC2012X145N"
 			(at 251.46 132.08 0)
 			(effects
 				(font
@@ -7438,7 +7438,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "CKG57NX5R1H226M500JH"
+		(property "MFR" "C2012X5R1V226M125AC"
 			(at 251.46 132.08 0)
 			(effects
 				(font
@@ -7692,7 +7692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iclr:CAPC6050X550N"
+		(property "Footprint" "iclr:CAPC2012X145N"
 			(at 264.16 132.08 0)
 			(effects
 				(font
@@ -7719,7 +7719,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "CKG57NX5R1H226M500JH"
+		(property "MFR" "C2012X5R1V226M125AC"
 			(at 264.16 132.08 0)
 			(effects
 				(font
