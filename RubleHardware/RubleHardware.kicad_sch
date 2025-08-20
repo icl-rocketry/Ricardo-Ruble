@@ -8044,7 +8044,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 218.44 119.38 0)
+		(at 218.44 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8058,7 +8058,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "18uH"
@@ -8067,7 +8067,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA8040S"
